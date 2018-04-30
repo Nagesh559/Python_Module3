@@ -5,7 +5,7 @@
 # LEFT 3
 # RIGHT 2
 # The numbers after directions are steps.
-# #Write a program to compute the distance current position after sequence of movements.
+# Write a program to compute the distance current position after sequence of movements.
 
 import math
 pos = [0,0]
