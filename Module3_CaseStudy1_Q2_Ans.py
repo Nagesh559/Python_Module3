@@ -1,5 +1,5 @@
-# Data of XYZ company is stored in sorted list. 
-# Write a program for searching specific data from that list.
+# Data of XYZ company is stored in sorted list
+# Write a program for searching specific data from that list
 
 import math
 def bin_search(li, element):
