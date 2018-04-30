@@ -12,6 +12,7 @@ data = data.rstrip('\n')
 
 #print (" data is:" , data)
 # Split the line on comma read the second word as it contains the job name
+
 words = data.split(',')
 joblist.add(words[1])
 
