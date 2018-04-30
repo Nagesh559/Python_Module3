@@ -18,7 +18,7 @@ joblist.add(words[1])
 
 campaign_data.close()
 print "List of Jobs Eligible For Campaign:", joblist
-client_prof = input('Enter client profession: ')
+client_prof = raw_input('Enter client profession: ')
 if (client_prof in joblist):
     print ( "Go Ahead!!! and Make Some Sales !!!! Client is eligible for Tele Calling" )
 else:
