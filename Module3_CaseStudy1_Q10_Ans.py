@@ -4,4 +4,3 @@
 words = [x for x in raw_input('Enter comma separated words:').split(',')]
 words.sort()
 print ','.join(words)
-
